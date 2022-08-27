@@ -2,7 +2,7 @@
 - 👀 I’m interested in Nodejs/Reactjs
 - 🌱 I’m working as a Team Lead and Full Stack Developer @Thyreality_LTD
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 you can reach me via twitter @sohaib_films or email at sohaib_ahmed40@gmail.com
+- 📫 you can reach me via twitter @sohaib_films
 
 <!---
 sohaibahmed40/sohaibahmed40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
